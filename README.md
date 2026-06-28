@@ -55,5 +55,14 @@ To become a skilled Python Backend Developer by building real-world projects and
 
 ## 📫 Connect With Me
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anildamaidev&show_icons=true&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anildamaidev&layout=compact&theme=github_dark" />
+</p>
 - LinkedIn: https://linkedin.com/in/anil-damai-85943b398
 - GitHub: https://github.com/anildamaidev
