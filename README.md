@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi 👋, I'm Anil Damai
 
-<!--
-**anildamaidev/anildamaidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Python Developer | Backend Developer
 
-Here are some ideas to get you started:
+I am a BCA graduate and an aspiring Python Developer passionate about building backend applications, automation tools, and computer vision projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+### 📌 ProTaskerAPI
+- Task Management REST API
+- Built with Python, FastAPI and SQLite
+
+### 📌 Smart Lane Guard System
+- AI-powered lane monitoring system
+- Built with OpenCV and YOLOv8
+
+### 📌 Text-to-Speech
+- Offline Text-to-Speech application
+- Built with Python and pyttsx3
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- FastAPI
+- REST APIs
+- OpenCV
+- YOLOv8
+- SQLite
+- Git
+- GitHub
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Python
+- Backend Development
+- Software Engineering
+- Databases
+- API Development
+
+---
+
+## 🎯 Goal
+
+To become a skilled Python Backend Developer by building real-world projects and continuously improving my programming and problem-solving skills.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/anil-damai-85943b398
+- GitHub: https://github.com/anildamaidev
